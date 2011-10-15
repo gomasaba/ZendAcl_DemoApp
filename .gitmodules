@@ -1,0 +1,3 @@
+[submodule "Plugin/ZendAcl"]
+	path = Plugin/ZendAcl
+	url = git://github.com/milds/ZendAcl
